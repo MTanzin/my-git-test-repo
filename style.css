@@ -1,0 +1,13 @@
+body{
+    color: rgb(3, 51, 92);
+    background-color: white;
+    text-align: center;
+    font-size: 32px;
+}
+p{
+    color: blue;
+    text-align: center;
+    font-size: medium;
+    font-weight: 600;
+    font-size: 24px;
+}
